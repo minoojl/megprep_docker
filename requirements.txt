@@ -1,0 +1,7 @@
+pathlib
+numpy
+matplotlib
+mne
+scikit-learn
+nibabel
+ica
